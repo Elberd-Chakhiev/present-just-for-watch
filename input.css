@@ -5,3 +5,7 @@
 .container {
   @apply px-3 max-w-[1200px] mx-auto;
 }
+img,
+svg {
+  @apply w-full h-auto;
+}
